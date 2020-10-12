@@ -1,0 +1,5 @@
+Passos para primeira utilização/configuração !
+
+Deve ser feito uma inserção manual no banco de dados na tabela "areas", preenchendo os dados e passando o valor '2' na coluna "nivel";
+
+- Para adicionar um discente no sistema, antes deve ser inserido pelo menos um curso dentro do sistema em -> [cursos> Adicionar curso];
