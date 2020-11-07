@@ -1,8 +1,8 @@
 # SINAE
 
-Sistema desenvolvido como parte do Trabalho de Conclusão de Curso apresentado ao Curso Tecnólogo em Sistema para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC).
+Sistema desenvolvido como parte do Trabalho de Conclusão de Curso apresentado ao Curso Tecnólogo em Sistema para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC). Destinado a gestão de atendimento de alunos no NAES/IFAC/Campus Rio Branco.
 
-Sistema apresentado visando otimizar a gestão de atendimento de alunos no NAES/IFAC/Campus Rio Branco.
+A proposta do   SINAE é realizar o cadastro dos alunos; agendamentos; registro dos atendimentos; relatórios e restrição de acesso das informações sigilosas para servidores das áreas distintas. 
 
 ![login](https://user-images.githubusercontent.com/58611244/98430942-0a974f80-2090-11eb-801d-465a5663286a.png)
 
