@@ -4,7 +4,7 @@ Sistema desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) de Sist
 
 Destinado para apoiar o gerenciamento dos atendimentos realizados aos alunos no Núcleo de Assistência ao Estudante (NAES) do IFAC/Campus Rio Branco.
 
-O Sistema do NAES (SINAE) tem como principais funções: cadastrar os alunos; realizar agendamentos; registrar atendimentos; criar relatórios; restringir o acesso das informações para servidores de áreas distintas. 
+O Sistema do NAES (SINAE) tem como principais funções: cadastrar os alunos; realizar agendamentos; registrar atendimentos; criar relatórios; e restringir o acesso das informações para servidores de áreas distintas. 
 
 ![login](https://user-images.githubusercontent.com/58611244/98430942-0a974f80-2090-11eb-801d-465a5663286a.png)
 
