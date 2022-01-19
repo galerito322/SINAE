@@ -2,7 +2,7 @@
 
 Sistema desenvolvido como parte do Trabalho de Conclusão de Curso de Sistemas para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC). 
 
-Destinado para apoiar o gerenciamento dos atendimentos realizados aos alunos no Núcleo de Assistência ao Estudante (NAES) do IFAC/Campus Rio Branco.
+Destinado para apoiar o gerenciamento de atendimentos realizados aos alunos no Núcleo de Assistência ao Estudante (NAES) do IFAC/Campus Rio Branco.
 
 O Sistema do NAES (SINAE) tem como principais funções: cadastrar os alunos; realizar agendamentos; registrar atendimentos; criar relatórios; e restringir o acesso das informações para servidores de áreas distintas. 
 
