@@ -1,6 +1,6 @@
 # SINAE
 
-Sistema desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) de Sistemas para Internet (SPI) do Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC). 
+Sistema desenvolvido como parte do Trabalho de Conclusão de Curso de Sistemas para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC). 
 
 Destinado para apoiar o gerenciamento dos atendimentos realizados aos alunos no Núcleo de Assistência ao Estudante (NAES) do IFAC/Campus Rio Branco.
 
