@@ -6,28 +6,25 @@ Destinado para apoiar o gerenciamento de atendimentos realizados aos alunos no N
 
 O Sistema do NAES (SINAE) tem como principais funções: cadastrar os alunos; realizar agendamentos; registrar atendimentos; criar relatórios; e restringir o acesso das informações para servidores de áreas distintas. 
 
+##Telas:
 
-# Login
+### Login
 ![login](https://user-images.githubusercontent.com/58611244/98430942-0a974f80-2090-11eb-801d-465a5663286a.png)
 
-# Principal
+### Principal
 ![telaprincipal](https://user-images.githubusercontent.com/58611244/98430969-50541800-2090-11eb-965d-96e6f37178aa.jpg)
 
-# Registro de Discentes
+### Registro de Discentes
 ![registrodediscentes](https://user-images.githubusercontent.com/58611244/98430977-606bf780-2090-11eb-8708-591ceb93b50d.png)
 
-# Discentes
+### Discentes
 ![teladediscentes](https://user-images.githubusercontent.com/58611244/98430979-68c43280-2090-11eb-90df-49a4028adccb.png)
 
-# Agendamentos
+### Agendamentos
 ![teladeagendamentos](https://user-images.githubusercontent.com/58611244/98431008-98733a80-2090-11eb-863b-f6c0296b807d.png)
 
-# Visualizar Agendamentos
+### Visualizar Agendamentos
 ![telavisualizaragendamentos](https://user-images.githubusercontent.com/58611244/98431017-a5902980-2090-11eb-9c82-4f2d11b493ef.png)
 
-# Atendimento
+### Atendimento
 ![teladeatendimento](https://user-images.githubusercontent.com/58611244/98431023-b476dc00-2090-11eb-9a0a-6635be960a6f.png)
-
-# Visualizar Agendamentos
-![telavisualizaragendamentos](https://user-images.githubusercontent.com/58611244/98431025-b6d93600-2090-11eb-9dfa-5c773c4d4a43.png)
-
